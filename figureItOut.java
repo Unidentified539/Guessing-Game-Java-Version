@@ -1,5 +1,8 @@
 public class figureItOut {
+
     public static String figureItOutComputer(int theNumberTheUserChose, int randomNumberChosenByTheComputer, int count) {
+
+
 
         if (theNumberTheUserChose <=0 || theNumberTheUserChose >100) {
             return "Your guess is invalid";
@@ -21,3 +24,4 @@ public class figureItOut {
 
     }
 }
+
