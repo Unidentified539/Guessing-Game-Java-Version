@@ -8,7 +8,7 @@ public class Main {
 
         int computerNumber = (int) (Math.random()*100 + 1);
         int userAnswer = 0;
-        System.out.println("The correct guess would be " + computerNumber);
+        System.out.println("Scroll Down To see the answer " + computerNumber);
         int count = 1;
 
         while (userAnswer != computerNumber)
