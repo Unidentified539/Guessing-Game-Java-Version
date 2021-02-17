@@ -1,2 +1,0 @@
-language = "java15"
-run = "javac Main.java"
