@@ -7,7 +7,7 @@
 
 <p>3. Go to the command prompt or bash on Linux and type git clone https://github.com/Unidentified539/Guessing-Game-Java-Version.git</p>
 
-<p>4. type cd Guessing-Game-Java-Version in the terminal</p>
+<p>4. open the terminal type cd Guessing-Game-Java-Version then type cd Game </p>
 
 <p>5. java Main.java</p>
 
